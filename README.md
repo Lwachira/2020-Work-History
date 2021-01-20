@@ -30,3 +30,6 @@ I have 7 applications currently running and being used in the company. 2 of thos
 # SiebelCRMServiceRequestExtract
 # LeadGenerator
 # lexisebook
+# Failed Projects
+# ActiveCampaignLogger
+# CRMSyncService
