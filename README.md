@@ -17,7 +17,7 @@ I have 7 applications currently running and being used in the company. Two of th
 - [SiebelCRMAutoAssign](#siebelcrmautoassign)
 - [SiebelCRMServiceRequestExtract](#siebelcrmservicerequestextract)
 - [LeadGenerator](#leadgenerator)
-- [lexisebook](#lexisebook)
+- [LexisEbook](#lexisebook)
 - [Failed Projects](#failed-projects)
     - [ActiveCampaignLogger](#activecampaignlogger)
     - [CRMSyncService](#crmsyncservice)
@@ -42,7 +42,7 @@ Another Extract service. Saved the company R10k per month.
 # LeadGenerator
 This was a new system to solve a 3-year-old problem the company had. Essentially marketing wanted to know the ISBN responsible for sales within the company.
 
-# lexisebook
+# LexisEbook
 A site that enabled internal members to generate ebook links for sales done on the Lexis Nexis Ebook Store.
 
 # Failed Projects
