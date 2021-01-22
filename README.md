@@ -17,9 +17,9 @@ I have 7 applications currently running and being used in the company. Two of th
 - [SiebelCRMAutoAssign](#siebelcrmautoassign)
 - [SiebelCRMServiceRequestExtract](#siebelcrmservicerequestextract)
 - [LeadGenerator](#leadgenerator)
-- [LexisEbook](#lexisebook)
+- [lexisebLexisEbookook](#lexisebook)
 - [Failed Projects](#failed-projects)
-    - [ActiveCampaignLogger](#activecampaignlogger)
+    - [ActiveCampaignLogger](#activecampaignlogger) 
     - [CRMSyncService](#crmsyncservice)
     
 
